@@ -1,0 +1,3 @@
+${PODS_ROOT}/Target Support Files/Pods-tableDemo-tableDemoUITests/Pods-tableDemo-tableDemoUITests-frameworks.sh
+${PODS_ROOT}/LookinServer/LookinServer.framework
+${BUILT_PRODUCTS_DIR}/SnapKit/SnapKit.framework

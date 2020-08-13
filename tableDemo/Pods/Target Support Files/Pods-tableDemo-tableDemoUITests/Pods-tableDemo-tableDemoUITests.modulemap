@@ -1,0 +1,6 @@
+framework module Pods_tableDemo_tableDemoUITests {
+  umbrella header "Pods-tableDemo-tableDemoUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
